@@ -1,84 +1,104 @@
-# 👋 Hi, I'm Saeed 
+<div align="center">
 
-🎓 CS Student | Android & AI Enthusiast  
-🐍 Python | 🤖 Machine Learning | 👁️ Computer Vision | 📱 Kotlin | 🌐 HTML & CSS (Basic)
+# Hey, I'm Saeed 👋
 
----
+**CS Student · AI Builder · Future Founder**
 
-## 🚀 About Me
-I'm a computer science student passionate about **building Android apps** and integrating **AI/ML solutions**.  
-I focus on **Python**, **Machine Learning**, **Computer Vision**, and **Kotlin**, with some experience in **web development (HTML/CSS)**.  
+*I'm not here to get hired — I'm here to build something of my own.*
 
-I enjoy creating practical projects, learning by doing, and gradually building the skills to launch my own **AI-powered Android startup** in the future.
+</div>
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧭 Who I Am
 
-### 🔹 Programming
-- Python
-- Kotlin
-- HTML *(Basic)*
-- CSS *(Basic)*
+I'm a computer science student who believes the most interesting problems are the ones nobody has fully solved yet.
 
-### 🔹 Machine Learning & AI
-- Supervised Learning & Model Evaluation
-- Feature Engineering
-- Neural Networks (basics)
+I don't measure progress by grades or certificates. I measure it by what I've built, what broke, and what I learned from fixing it.
 
-### 🔹 Computer Vision
-- OpenCV
-- Image Processing & Object Detection basics
-
-### 🔹 Data & Visualization
-- NumPy, Pandas
-- Matplotlib, Seaborn
-
-### 🔹 Tools & Environment
-- Git & GitHub
-- Jupyter Notebook
-- Linux
+My path is clear: become good enough at AI and mobile development to build products that actually matter — then launch my own startup. Not someday. Soon.
 
 ---
 
-## 📂 Projects
+## 🔨 What I'm Building Now
 
-🔹 **Computer Vision Mini Projects**  
-- Image filtering, edge detection, basic pipelines  
-`Python · OpenCV`
+### [DataForge](https://github.com/saee87d/dataforge) — *Main project*
+> GUI-driven data preprocessing & EDA platform — no code required
 
-🔹 **House Price Prediction**  
-- Regression model using real-world datasets  
-`Python · Scikit-learn · Pandas`
+A full-stack web application that lets anyone clean, explore, and transform data through a visual interface — no Python knowledge needed. Think of it as a lightweight, open-source alternative to KNIME or Tableau Prep.
 
-🔹 **Student Performance Analysis**  
-- Data analysis and visualization  
-`Python · Pandas · Matplotlib`
+Built with **FastAPI + React + TypeScript**. Features include missing value handling, outlier detection, feature encoding, pipeline save/load, undo/redo, and AI-powered suggestions.
 
-🔹 **Kotlin Practice Projects**  
-- Core Kotlin concepts and exercises  
-`Kotlin`
-
-🔹 **Basic Web Pages**  
-- Simple static pages using HTML & CSS  
-`HTML · CSS`
+**Status:** Active development · Looking for collaborators
 
 ---
 
-## 📈 GitHub Stats
-![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=saee87d&show_icons=true&theme=default)
+### [Smart-Budget-Ollama](https://github.com/saee87d/Smart-Budget-Ollama)
+> Personal finance manager powered by a local LLM
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saee87d&layout=compact)
+Track expenses and income through natural language. No cloud, no data sharing — everything runs locally using Ollama + Qwen 2.5. Just type "spent 20 dollars on coffee" and the AI handles the rest.
 
----
-
-## 🎯 Goals
-- Build AI-powered Android apps for real-world problems  
-- Become a Machine Learning / Computer Vision Engineer  
-- Expand full-stack and mobile development skills  
-- Launch my own AI-driven Android startup
+Built with **Python · Ollama · Qwen 2.5 (14B)**
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/saee87d
+## 🛠 Skills & Stack
+
+**What I build with regularly:**
+```
+Backend     →  Python · FastAPI · Pandas · NumPy · Scikit-learn
+Frontend    →  React · TypeScript · TailwindCSS · Vite
+DevOps      →  Docker · Git · Linux
+Data        →  Matplotlib · Seaborn · Plotly
+```
+
+**What I'm actively learning:**
+```
+Mobile      →  Kotlin · Android development
+AI/ML       →  Neural Networks · Computer Vision · OpenCV
+LLMs        →  Prompt engineering · Local model deployment (Ollama)
+```
+
+---
+
+## 🎯 Where I'm Headed
+
+I want to build an **AI-powered Android startup** — products that solve real, daily problems using machine learning running on-device or through privacy-first local inference.
+
+I'm not optimizing for a job offer. I'm optimizing for the skills, the projects, and the network that make a startup possible.
+
+If you're a developer who thinks the same way — builder-first, not resume-first — I'd love to connect or collaborate.
+
+---
+
+## 📂 Project Overview
+
+| Project | Stack | Status |
+|---|---|---|
+| [DataForge](https://github.com/saee87d/dataforge) | FastAPI · React · TypeScript · Python | 🟡 Active |
+| [Smart-Budget-Ollama](https://github.com/saee87d/Smart-Budget-Ollama) | Python · Ollama · Qwen 2.5 | 🟡 Active |
+
+---
+
+## 🤝 Open to
+
+- **Collaboration** on AI, data, or Android projects
+- **Feedback** on my projects — brutal honesty welcome
+- **Connecting** with other builders and founders
+
+Not open to: full-time employment at this stage. Building my own thing first.
+
+---
+
+## 📫 Reach Me
+
+- **Email:** saeed.samad.motlagh@gmail.com
+- **GitHub:** [@saee87d](https://github.com/saee87d)
+
+---
+
+<div align="center">
+
+*"The best time to start was yesterday. The second best time is now."*
+
+</div>
