@@ -1,104 +1,163 @@
-<div align="center">
-
 # Hey, I'm Saeed 👋
 
-**CS Student · AI Builder · Future Founder**
+### Computer Engineering Student · AI Developer · Independent Builder
 
-*I'm not here to get hired — I'm here to build something of my own.*
+I build software, experiment with AI, and turn ideas into working products.
 
-</div>
+My focus is on **Artificial Intelligence, Software Engineering, and building products that solve real-world problems.**
 
----
-
-## 🧭 Who I Am
-
-I'm a computer science student who believes the most interesting problems are the ones nobody has fully solved yet.
-
-I don't measure progress by grades or certificates. I measure it by what I've built, what broke, and what I learned from fixing it.
-
-My path is clear: become good enough at AI and mobile development to build products that actually matter — then launch my own startup. Not someday. Soon.
+I don't just want to understand how technology works. I want to use it to build things that people actually use.
 
 ---
 
-## 🔨 What I'm Building Now
+## 🧭 About Me
 
-### [DataForge](https://github.com/saee87d/dataforge) — *Main project*
-> GUI-driven data preprocessing & EDA platform — no code required
+I'm a computer engineering student with a strong interest in AI, backend development, and product engineering.
 
-A full-stack web application that lets anyone clean, explore, and transform data through a visual interface — no Python knowledge needed. Think of it as a lightweight, open-source alternative to KNIME or Tableau Prep.
+I'm particularly interested in:
 
-Built with **FastAPI + React + TypeScript**. Features include missing value handling, outlier detection, feature encoding, pipeline save/load, undo/redo, and AI-powered suggestions.
+- **AI & Machine Learning** — building intelligent systems and practical ML applications.
+- **LLMs & Local AI** — running models locally and building privacy-focused AI tools.
+- **Backend Engineering** — designing APIs, application architecture, and data-driven systems.
+- **Mobile Development** — exploring Android development with Kotlin.
+- **Entrepreneurship** — turning technical ideas into useful products and eventually building my own startup.
 
-**Status:** Active development · Looking for collaborators
+My philosophy is simple:
 
----
-
-### [Smart-Budget-Ollama](https://github.com/saee87d/Smart-Budget-Ollama)
-> Personal finance manager powered by a local LLM
-
-Track expenses and income through natural language. No cloud, no data sharing — everything runs locally using Ollama + Qwen 2.5. Just type "spent 20 dollars on coffee" and the AI handles the rest.
-
-Built with **Python · Ollama · Qwen 2.5 (14B)**
+> Learn by building. Improve by breaking things. Grow by solving harder problems.
 
 ---
 
-## 🛠 Skills & Stack
+## 🚀 Featured Projects
 
-**What I build with regularly:**
-```
-Backend     →  Python · FastAPI · Pandas · NumPy · Scikit-learn
-Frontend    →  React · TypeScript · TailwindCSS · Vite
-DevOps      →  Docker · Git · Linux
-Data        →  Matplotlib · Seaborn · Plotly
-```
+### 🔬 [DataForge](https://github.com/saee87d/dataforge)
+**GUI-driven Data Preprocessing & Exploratory Data Analysis Platform**
 
-**What I'm actively learning:**
-```
-Mobile      →  Kotlin · Android development
-AI/ML       →  Neural Networks · Computer Vision · OpenCV
-LLMs        →  Prompt engineering · Local model deployment (Ollama)
-```
+An open-source, full-stack application designed to make data preparation and exploration accessible through a visual interface.
 
----
+Inspired by tools like KNIME, Orange Data Mining, and Tableau Prep.
 
-## 🎯 Where I'm Headed
+**Key features:**
+- Interactive data exploration and visualization
+- Missing value handling and outlier detection
+- Feature encoding, scaling, and transformations
+- Reusable preprocessing pipelines
+- Undo / Redo operation history
+- AI-powered preprocessing suggestions
+- Automated EDA reports
+- Multiple data export formats
 
-I want to build an **AI-powered Android startup** — products that solve real, daily problems using machine learning running on-device or through privacy-first local inference.
+**Stack:** Python · FastAPI · React · TypeScript · Pandas · NumPy · Scikit-learn · Docker
 
-I'm not optimizing for a job offer. I'm optimizing for the skills, the projects, and the network that make a startup possible.
+**Status:** Active development
 
-If you're a developer who thinks the same way — builder-first, not resume-first — I'd love to connect or collaborate.
+[Explore DataForge →](https://github.com/saee87d/dataforge)
 
 ---
 
-## 📂 Project Overview
+### 🤖 [Smart-Budget-Ollama](https://github.com/saee87d/Smart-Budget-Ollama)
+**Privacy-First Personal Finance Manager Powered by Local LLMs**
 
-| Project | Stack | Status |
-|---|---|---|
-| [DataForge](https://github.com/saee87d/dataforge) | FastAPI · React · TypeScript · Python | 🟡 Active |
-| [Smart-Budget-Ollama](https://github.com/saee87d/Smart-Budget-Ollama) | Python · Ollama · Qwen 2.5 | 🟡 Active |
+A personal finance management tool that converts natural language into structured financial transactions using locally running language models.
+
+Instead of navigating complex financial interfaces, users can simply describe their expenses and income.
+
+**Key features:**
+- Natural language transaction input
+- Automatic expense categorization
+- Income and expense tracking
+- Financial analytics and reports
+- Savings goals and progress tracking
+- Local AI inference with Ollama
+
+**Stack:** Python · Ollama · Qwen 2.5 · LLM Integration
+
+**Focus:** Local AI · Privacy · Personal Finance
+
+[Explore Smart-Budget-Ollama →](https://github.com/saee87d/Smart-Budget-Ollama)
 
 ---
 
-## 🤝 Open to
+## 🧪 Other Technical Experiments
 
-- **Collaboration** on AI, data, or Android projects
-- **Feedback** on my projects — brutal honesty welcome
-- **Connecting** with other builders and founders
+Beyond my main repositories, I also experiment with different areas of software engineering and AI.
 
-Not open to: full-time employment at this stage. Building my own thing first.
+- **PersianWhisper:** Local Persian speech-to-text using Faster-Whisper, with a focus on real-time dictation and transcription accuracy.
+- **EvoLife:** An evolving ecosystem simulation exploring autonomous agents, predator-prey interactions, and dynamic environments.
+
+These experiments help me explore ideas beyond conventional web development.
 
 ---
 
-## 📫 Reach Me
+## 🛠️ Technologies & Tools
 
-- **Email:** saeed.samad.motlagh@gmail.com
+### Core Technologies
+
+| Area | Technologies |
+|---|---|
+| Programming | Python |
+| Backend | FastAPI, REST APIs |
+| Data & ML | Pandas, NumPy, Scikit-learn |
+| Frontend | React, TypeScript, Vite |
+| Visualization | Matplotlib, Plotly |
+| Local AI | Ollama, LLM Integration |
+| Development | Git, GitHub, Linux, Docker |
+
+### Currently Exploring
+
+| Area | Focus |
+|---|---|
+| Mobile Development | Kotlin, Android |
+| Computer Vision | OpenCV, Image Processing |
+| Deep Learning | Neural Networks, Model Training |
+| AI Engineering | Local Inference, LLM Applications |
+| Software Engineering | Architecture, Testing, Code Quality |
+
+---
+
+## 🎯 My Direction
+
+My long-term goal is to become an independent technology founder.
+
+I'm particularly interested in building **AI-powered products**, especially mobile applications that combine machine learning, intelligent automation, and practical everyday functionality.
+
+I want to develop products that are:
+
+- Useful, not just technically interesting.
+- Well-engineered, not just functional prototypes.
+- Privacy-conscious and efficient.
+- Scalable enough to grow beyond their initial users.
+
+I'm not trying to collect technologies or build projects just to fill a portfolio.
+
+I'm trying to develop the engineering skills and product mindset required to build a successful company.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+
+- Collaborating on AI, Python, ML, and open-source projects.
+- Discussing software architecture and product development.
+- Receiving honest technical feedback.
+- Connecting with developers, independent builders, and aspiring founders.
+
+**If you're building something interesting, I'd love to hear about it.**
+
+---
+
+## 📫 Contact
+
+- **Email:** [saeed.samad.motlagh@gmail.com](mailto:saeed.samad.motlagh@gmail.com)
 - **GitHub:** [@saee87d](https://github.com/saee87d)
 
 ---
 
 <div align="center">
 
-*"The best time to start was yesterday. The second best time is now."*
+*Building skills. Shipping projects. Creating products.*
+
+**The goal isn't to look like a builder. It's to become one.** 🚀
 
 </div>
