@@ -1,136 +1,251 @@
 # Hey, I'm Saeed 👋
 
-### Computer Engineering Student · AI Developer · Independent Builder
+### AI Application Developer · Python Engineer · Independent Builder
 
-I build software, experiment with AI, and turn ideas into working products.
+**I turn ideas into intelligent software products.**
 
-My focus is on **Artificial Intelligence, Software Engineering, and building products that solve real-world problems.**
+I'm a Computer Engineering student passionate about Artificial Intelligence, software engineering, and building products that solve real-world problems.
 
-I don't just want to understand how technology works. I want to use it to build things that people actually use.
+My main focus is **AI Application Engineering** — combining Python, LLMs, data processing, and software architecture to create practical applications rather than isolated AI experiments.
+
+I enjoy exploring how intelligent systems can make software more useful, accessible, and autonomous.
 
 ---
 
-## 🧭 About Me
+## 🧠 My Core Focus
 
-I'm a computer engineering student with a strong interest in AI, backend development, and product engineering.
+### AI Application Engineering
 
-I'm particularly interested in:
+Building complete applications powered by artificial intelligence.
 
-- **AI & Machine Learning** — building intelligent systems and practical ML applications.
-- **LLMs & Local AI** — running models locally and building privacy-focused AI tools.
-- **Backend Engineering** — designing APIs, application architecture, and data-driven systems.
-- **Mobile Development** — exploring Android development with Kotlin.
-- **Entrepreneurship** — turning technical ideas into useful products and eventually building my own startup.
+- Integrating Large Language Models (LLMs) into real-world applications.
+- Designing AI-powered workflows and automation systems.
+- Building structured AI pipelines with predictable outputs.
+- Connecting models to APIs, databases, and application logic.
+- Running and integrating local models using Ollama.
+- Turning AI experiments into usable software products.
 
-My philosophy is simple:
+### Python & Backend Engineering
 
-> Learn by building. Improve by breaking things. Grow by solving harder problems.
+Python is my primary programming language and the foundation of most of my projects.
+
+- Backend development with FastAPI.
+- REST API design and integration.
+- Data processing and transformation.
+- Database integration and management.
+- Asynchronous programming and automation.
+- Application architecture and modular development.
+
+### Local AI & LLM Systems
+
+I'm particularly interested in running AI models locally and building privacy-focused applications.
+
+- Ollama and local model deployment.
+- Qwen and Llama model integration.
+- Prompt engineering and structured JSON generation.
+- Natural language processing.
+- LLM-powered decision and analysis systems.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔬 [DataForge](https://github.com/saee87d/dataforge)
-**GUI-driven Data Preprocessing & Exploratory Data Analysis Platform**
 
-An open-source, full-stack application designed to make data preparation and exploration accessible through a visual interface.
+**Visual Data Preprocessing & AI-Assisted Analytics Platform**
 
-Inspired by tools like KNIME, Orange Data Mining, and Tableau Prep.
+A full-stack application designed to make data preprocessing and exploratory data analysis accessible through a visual interface.
 
-**Key features:**
-- Interactive data exploration and visualization
-- Missing value handling and outlier detection
-- Feature encoding, scaling, and transformations
-- Reusable preprocessing pipelines
-- Undo / Redo operation history
-- AI-powered preprocessing suggestions
-- Automated EDA reports
-- Multiple data export formats
+The goal is to simplify complex data workflows and reduce the need for writing code during everyday data preparation tasks.
 
-**Stack:** Python · FastAPI · React · TypeScript · Pandas · NumPy · Scikit-learn · Docker
+**Key Areas:**
+- Visual data preprocessing.
+- Exploratory Data Analysis (EDA).
+- Missing value handling.
+- Outlier detection.
+- Feature encoding and transformation.
+- Reusable preprocessing pipelines.
+- Data visualization.
+- AI-assisted data preparation.
 
-**Status:** Active development
+**Tech Stack:** Python · FastAPI · React · TypeScript · Pandas · NumPy · Scikit-learn
 
-[Explore DataForge →](https://github.com/saee87d/dataforge)
-
----
-
-### 🤖 [Smart-Budget-Ollama](https://github.com/saee87d/Smart-Budget-Ollama)
-**Privacy-First Personal Finance Manager Powered by Local LLMs**
-
-A personal finance management tool that converts natural language into structured financial transactions using locally running language models.
-
-Instead of navigating complex financial interfaces, users can simply describe their expenses and income.
-
-**Key features:**
-- Natural language transaction input
-- Automatic expense categorization
-- Income and expense tracking
-- Financial analytics and reports
-- Savings goals and progress tracking
-- Local AI inference with Ollama
-
-**Stack:** Python · Ollama · Qwen 2.5 · LLM Integration
-
-**Focus:** Local AI · Privacy · Personal Finance
-
-[Explore Smart-Budget-Ollama →](https://github.com/saee87d/Smart-Budget-Ollama)
+**Focus:** Data Engineering · AI Applications · Full-Stack Development
 
 ---
 
-## 🧪 Other Technical Experiments
+### 🎙️ [VoxKey](https://github.com/saee87d/VoxKey)
 
-Beyond my main repositories, I also experiment with different areas of software engineering and AI.
+**Voice-to-Text Productivity Tool for Windows**
 
-- **PersianWhisper:** Local Persian speech-to-text using Faster-Whisper, with a focus on real-time dictation and transcription accuracy.
-- **EvoLife:** An evolving ecosystem simulation exploring autonomous agents, predator-prey interactions, and dynamic environments.
+A desktop productivity application focused on making voice input accessible across Windows applications.
 
-These experiments help me explore ideas beyond conventional web development.
+The idea is simple: speak naturally, convert speech into text, and insert the result directly into the currently focused application.
+
+**Key Areas:**
+- Voice-driven text input.
+- Global keyboard shortcut interaction.
+- Audio recording and transcription workflows.
+- Desktop application integration.
+- Automated text insertion.
+- Speech recognition workflows.
+
+**Focus:** Desktop Engineering · Speech AI · Productivity Automation
 
 ---
 
-## 🛠️ Technologies & Tools
+### 📊 [CryptoMind-AI](https://github.com/saee87d/CryptoMind-AI)
 
-### Core Technologies
+**Local LLM-Powered Cryptocurrency Sentiment Analysis**
 
-| Area | Technologies |
-|---|---|
-| Programming | Python |
-| Backend | FastAPI, REST APIs |
-| Data & ML | Pandas, NumPy, Scikit-learn |
-| Frontend | React, TypeScript, Vite |
-| Visualization | Matplotlib, Plotly |
-| Local AI | Ollama, LLM Integration |
-| Development | Git, GitHub, Linux, Docker |
+An AI-powered system that collects market-related information from multiple sources and analyzes cryptocurrency sentiment using locally running language models.
+
+It explores how unstructured information from news and social media can be transformed into structured market insights.
+
+**Key Areas:**
+- Multi-source data collection.
+- CoinGecko integration.
+- Reddit and RSS data collection.
+- Fear & Greed Index integration.
+- Local LLM-based sentiment analysis.
+- Sentiment scoring and aggregation.
+- Historical analysis and visualization.
+- Automated data collection.
+
+**Tech Stack:** Python · Ollama · Llama 3.2 · SQLAlchemy · SQLite · aiohttp · PRAW · Plotly
+
+**Focus:** AI Analytics · Data Pipelines · Local LLMs
+
+---
+
+### 💰 [Smart-Budget-Ollama](https://github.com/saee87d/Smart-Budget-Ollama)
+
+**Privacy-First Personal Finance Assistant**
+
+An experimental personal finance application that uses local language models to interpret natural language and process financial transactions.
+
+Instead of manually entering every transaction, users can describe their expenses and let the AI interpret the information.
+
+**Key Areas:**
+- Natural language transaction processing.
+- AI-powered expense categorization.
+- Income and expense management.
+- Local model integration.
+- Privacy-focused AI workflows.
+- Financial data analysis.
+
+**Tech Stack:** Python · Ollama · Qwen 2.5
+
+**Focus:** Local AI · NLP · Personal Finance Automation
+
+---
+
+### 🎮 [LLM-Driven Text Adventure RPG](https://github.com/saee87d/LLM-Driven-Text-Adventure-RPG-with-Dynamic-World-State)
+
+**Natural Language Understanding Meets Dynamic Game Systems**
+
+An experimental text-based RPG that uses Qwen 2.5 to interpret natural language player actions and translate them into structured changes to the game world.
+
+The project explores how LLMs can understand player intent while maintaining a controlled and persistent game state.
+
+**Key Areas:**
+- Natural language action interpretation.
+- LLM-based command parsing.
+- Structured JSON generation.
+- Schema-based output validation.
+- Dynamic world-state management.
+- Inventory and player-state updates.
+- Persistent game sessions.
+
+**Tech Stack:** Python · Ollama · Qwen 2.5 · JSON
+
+**Focus:** LLM Orchestration · AI Agents · State Management
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages & Backend
+
+- Python
+- FastAPI
+- REST APIs
+- SQLAlchemy
+- SQLite
+
+### Artificial Intelligence
+
+- Large Language Models (LLMs)
+- Ollama
+- Qwen
+- Llama
+- Prompt Engineering
+- Structured Output Generation
+- Local AI Inference
+
+### Data & Machine Learning
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+
+### Frontend & Development
+
+- React
+- TypeScript
+- Vite
+- Git & GitHub
+- Linux
+- Docker
 
 ### Currently Exploring
 
-| Area | Focus |
-|---|---|
-| Mobile Development | Kotlin, Android |
-| Computer Vision | OpenCV, Image Processing |
-| Deep Learning | Neural Networks, Model Training |
-| AI Engineering | Local Inference, LLM Applications |
-| Software Engineering | Architecture, Testing, Code Quality |
+- Kotlin & Android Development
+- Deep Learning & Neural Networks
+- Computer Vision & OpenCV
+- Advanced AI Application Architecture
+- On-device AI
 
 ---
 
-## 🎯 My Direction
+## 🧩 How I Build
 
-My long-term goal is to become an independent technology founder.
+I enjoy working on projects that combine multiple areas of engineering.
 
-I'm particularly interested in building **AI-powered products**, especially mobile applications that combine machine learning, intelligent automation, and practical everyday functionality.
+My development interests include:
 
-I want to develop products that are:
+| Area | What interests me |
+|---|---|
+| AI Engineering | Turning models into useful applications |
+| Backend Engineering | Building reliable application logic and APIs |
+| Data Engineering | Collecting, processing, and transforming data |
+| Local AI | Privacy-first and locally executed intelligence |
+| Desktop Development | Building practical productivity tools |
+| Product Development | Turning ideas into usable software |
 
-- Useful, not just technically interesting.
-- Well-engineered, not just functional prototypes.
-- Privacy-conscious and efficient.
-- Scalable enough to grow beyond their initial users.
+I believe understanding how different components work together is just as important as knowing individual technologies.
 
-I'm not trying to collect technologies or build projects just to fill a portfolio.
+---
 
-I'm trying to develop the engineering skills and product mindset required to build a successful company.
+## 🎯 Long-Term Vision
+
+My long-term ambition is to become a technology founder and build AI-powered products that solve meaningful problems.
+
+I'm especially interested in:
+
+- AI-powered mobile applications.
+- Intelligent productivity tools.
+- Privacy-first AI systems.
+- Local and on-device machine learning.
+- Practical automation.
+- Consumer-facing AI products.
+
+I'm not interested in learning technologies just to add them to a résumé.
+
+I want to understand the engineering behind them, build with them, and eventually create products that people genuinely depend on.
 
 ---
 
@@ -138,12 +253,13 @@ I'm trying to develop the engineering skills and product mindset required to bui
 
 I'm open to:
 
-- Collaborating on AI, Python, ML, and open-source projects.
-- Discussing software architecture and product development.
-- Receiving honest technical feedback.
-- Connecting with developers, independent builders, and aspiring founders.
+- Collaborating on AI and Python projects.
+- Contributing to open-source software.
+- Discussing software architecture and AI engineering.
+- Receiving honest feedback on my projects.
+- Connecting with developers, builders, and aspiring founders.
 
-**If you're building something interesting, I'd love to hear about it.**
+If you're building something interesting, let's connect.
 
 ---
 
@@ -156,8 +272,8 @@ I'm open to:
 
 <div align="center">
 
-*Building skills. Shipping projects. Creating products.*
+*Learn. Build. Experiment. Improve.*
 
-**The goal isn't to look like a builder. It's to become one.** 🚀
+### From ideas to intelligent products. 🚀
 
 </div>
